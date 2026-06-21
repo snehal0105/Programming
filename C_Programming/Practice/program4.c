@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    int i,j,k;
+    printf("Enter first number : \n");
+    scanf("%d ",&i);
+
+    printf("Enter second number : \n");
+    scanf("%d ",&j);
+
+    k=i+j;
+    printf("Addition of Two Numbers is : "k);
+    
+    return 0;
+}
